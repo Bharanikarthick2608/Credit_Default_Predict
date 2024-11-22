@@ -1,0 +1,6 @@
+scikit-learn==1.5.2 
+matplotlib
+pandas
+numpy
+joblib
+statsmodels
